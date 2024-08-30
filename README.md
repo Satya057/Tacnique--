@@ -26,7 +26,3 @@ To get started with the frontend, follow these steps:
 
     npm start
 
-## Deployment Link
-
-[Click to redirect to Frontend App]()
-
